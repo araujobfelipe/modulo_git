@@ -1,1 +1,1 @@
-Olá, esse é um conflito.
+Ola esse é um conflito.
